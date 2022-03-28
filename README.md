@@ -1,9 +1,9 @@
-- [Padrões de projeto](#padrões-de-projeto)
+- [Design Patters](#design-patters)
   - [Creational](#creational)
 
-# Padrões de projeto
+# Design Patters
 
-Esse repositório engloba os 23 padrões de projeto do Gang of Four implementados em Typescript.
+This repository contains all of 23 design patterns of Gang of Four book, implemented using Typescript.
 
 ## Creational
 
