@@ -1,4 +1,4 @@
-# Singleton Pattern
+e# Singleton Pattern
 
 ## Oficial Intention
 
@@ -14,7 +14,7 @@ When we have shared resources in a app, like databases, graphical intefaces, log
 
 You can allow global access to the Singleton throughout your application, just like we do with global variables
 
-An Singleton advatage it's that we can protect the instance with encapsulation, avoiding that other code overrides its value
+An Singleton advantage it's that we can protect the instance with encapsulation, avoiding that other code overrides its value
 
 ![Singleton Scheme](../../assets/singleton.jpeg)
 
@@ -58,4 +58,4 @@ console.log(instanceOne === instanceTwo); // true
   - Is more difficult to test
   - Break single responsability principle
   - Need special treatment em concurrency cases
-  - Erich Gamma describs that this would be the only pattern he remove if he will refactor the book
+  - Erich Gamma describes that this would be the only pattern he remove if he will refactor the book

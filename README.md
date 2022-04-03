@@ -8,3 +8,4 @@ This repository contains all of 23 design patterns of Gang of Four book, impleme
 ## Creational
 
 - [Singleton](./src/singleton/)
+- [Builder](./src/builder/)
